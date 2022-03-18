@@ -12,5 +12,7 @@ More examples of my graphic design work can be seen on our brand's
 [Instagram Page](https://www.instagram.com/censorshipped/?hl=en)
 
 
-[Return Home](README.md)      [Next (Crypto)](Page3.md)       
+[Return Home](README.md)     
+
+[Next (Crypto)](Page3.md)       
     
