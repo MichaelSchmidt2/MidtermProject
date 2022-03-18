@@ -4,5 +4,7 @@ In the future I hope to learn app development and expand my knowledge enough to 
 
 It would be really cool to be able to tie all my different interests together and create a platform incorporating several different hobbies. As of right now these IT and computer science classes serve as a stepping stone toward the rest of my journey to reach my end goals.
 
+![Image of Trading](ccc.png)
+
 
 [Return Home](README.md)
