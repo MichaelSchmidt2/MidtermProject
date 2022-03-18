@@ -1,4 +1,4 @@
-##Background in Cryptocurrency:
+## Background in Cryptocurrency:
 
 Cryptocurrencies have always fascinated me from an early age and this quickly became a huge hobby of mine and hopefully one day I can make a career out of it. I'm only 22 years old, but I've been investing in cryptocurrencies since I was 16 years old. After the years I decided to take my interests with crypto to the next level and started swingtrading the market when I was about 19.
 
