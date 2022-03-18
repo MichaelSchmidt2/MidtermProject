@@ -37,12 +37,12 @@ for i in range(len(num_list)):
 ### Cryptocurrency Background:
    Cryptocurrencies have always fascinated me from an early age and this quickly became a huge hobby of mine and hopefully one day I can make a career out of it. I'm only 22 years old, but I've been investing in cryptocurrencies since I was 16 years old. After the years I decided to take my interests with crypto to the next level and started swingtrading the market when I was about 19.
 
-[More on Crypto](page3.md)
+[More on Crypto](Page3.md)
 
 ### Coding Background:
    Coding is a very new hobby of mine only coming about in the past year or two. Since then I've been trying to learn C Code, JavaScript and HTML. I'm glad I decided to epand my skillset and give coding a try otherwise I might not have known that I enjoy it to a certain extent. My favorite coding language that I've learned so far would have to be HTML because I enjoy the web aspects of it and I would like to improve my skills in terms of web design.
 
-[More on Coding Background](page4.md)
+[More on Coding Background](Page4.md)
 
 ### Future Coding Goals:
    In the future I hope to learn app development and expand my knowledge enough to where I am able to create custom professional platforms. This has always been something that I've been interested in; however, I never though I'd be capable of doing it. While I am still very far out from achieving this I hope with enough dedication and hard work I can accomplish.
