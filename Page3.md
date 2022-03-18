@@ -13,7 +13,7 @@ Currently I run a cryptocurrency social media group of around 70 members and we 
 
 **Example of some of the chart analysis we do:**
 
- *The technical indicators being used in this chart ar.*
+ *The technical indicators being used in this chart are Fibbonacci Retracements and The Gann Fan.*
 
 ![Image of Trading](Crypto.png)
 
