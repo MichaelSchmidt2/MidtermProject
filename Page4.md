@@ -19,3 +19,4 @@ This was my most recent project and it was written in C Code. This was probably 
 
 [Return Home](README.md)
 
+[Next (Future Coding Goals)](page5.md)   
