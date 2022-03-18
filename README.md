@@ -1,8 +1,5 @@
 # MidtermProject
 Michael Schmidt's Midterm Project
-
-# GitHub Home Page
-
 # GitHub Home Page
 
 ### About Me:
